@@ -1,0 +1,1 @@
+WARCO original offer photos (unchanged). Copy index.html into your warco website folder and copy images/exclusive-offer/ folder into its images folder. Make a backup of your current index.html before replacing. If you added Brands Search after the ZIP you uploaded, ask for an HTML merge instead of replacing index.html.
